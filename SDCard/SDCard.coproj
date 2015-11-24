@@ -85,12 +85,12 @@
     <Component id="524" name="MISC" path="" type="2"/>
   </Components>
   <Files>
-    <File name="cmsis_lib/source/stm32f4xx_gpio.c" path="cmsis_lib/source/stm32f4xx_gpio.c" type="1"/>
     <File name="sdcard/diskio.h" path="fatfs/diskio.h" type="1"/>
+    <File name="cmsis_lib/source/stm32f4xx_gpio.c" path="cmsis_lib/source/stm32f4xx_gpio.c" type="1"/>
     <File name="sdcard/tm_stm32f4_fatfs.h" path="tm_stm32f4_fatfs.h" type="1"/>
     <File name="cmsis_boot" path="" type="2"/>
-    <File name="sdcard/ffconf.h" path="fatfs/ffconf.h" type="1"/>
     <File name="sdcard/tm_stm32f4_delay.c" path="tm_stm32f4_delay.c" type="1"/>
+    <File name="sdcard/ffconf.h" path="fatfs/ffconf.h" type="1"/>
     <File name="sdcard/ff.h" path="fatfs/ff.h" type="1"/>
     <File name="sdcard/fatfs_sd.h" path="fatfs/drivers/fatfs_sd.h" type="1"/>
     <File name="semihosting/sh_cmd.s" path="semihosting/sh_cmd.s" type="1"/>
@@ -118,8 +118,8 @@
     <File name="sdcard/integer.h" path="fatfs/integer.h" type="1"/>
     <File name="cmsis_lib/include/stm32f4xx_pwr.h" path="cmsis_lib/include/stm32f4xx_pwr.h" type="1"/>
     <File name="sdcard/attributes.h" path="attributes.h" type="1"/>
-    <File name="stdio" path="" type="2"/>
     <File name="cmsis_boot/startup/startup_stm32f4xx.c" path="cmsis_boot/startup/startup_stm32f4xx.c" type="1"/>
+    <File name="stdio" path="" type="2"/>
     <File name="cmsis_lib/source/stm32f4xx_rcc.c" path="cmsis_lib/source/stm32f4xx_rcc.c" type="1"/>
     <File name="sdcard/defines.h" path="defines.h" type="1"/>
     <File name="cmsis/core_cmInstr.h" path="cmsis/core_cmInstr.h" type="1"/>
@@ -127,17 +127,17 @@
     <File name="sdcard/ff.c" path="fatfs/ff.c" type="1"/>
     <File name="semihosting" path="" type="2"/>
     <File name="cmsis_boot/system_stm32f4xx.c" path="cmsis_boot/system_stm32f4xx.c" type="1"/>
-    <File name="cmsis_lib/include/stm32f4xx_spi.h" path="cmsis_lib/include/stm32f4xx_spi.h" type="1"/>
     <File name="sdcard/tm_stm32f4_gpio.h" path="tm_stm32f4_gpio.h" type="1"/>
+    <File name="cmsis_lib/include/stm32f4xx_spi.h" path="cmsis_lib/include/stm32f4xx_spi.h" type="1"/>
     <File name="cmsis" path="" type="2"/>
-    <File name="cmsis_lib" path="" type="2"/>
     <File name="sdcard/tm_stm32f4_timer_properties.h" path="tm_stm32f4_timer_properties.h" type="1"/>
+    <File name="cmsis_lib" path="" type="2"/>
     <File name="sdcard/fatfs_sd.c" path="fatfs/drivers/fatfs_sd.c" type="1"/>
     <File name="sdcard" path="" type="2"/>
     <File name="cmsis_lib/source/stm32f4xx_tim.c" path="cmsis_lib/source/stm32f4xx_tim.c" type="1"/>
     <File name="cmsis_lib/include/stm32f4xx_gpio.h" path="cmsis_lib/include/stm32f4xx_gpio.h" type="1"/>
-    <File name="sdcard/tm_stm32f4_fatfs.c" path="tm_stm32f4_fatfs.c" type="1"/>
     <File name="syscalls" path="" type="2"/>
+    <File name="sdcard/tm_stm32f4_fatfs.c" path="tm_stm32f4_fatfs.c" type="1"/>
     <File name="sdcard/diskio.c" path="fatfs/diskio.c" type="1"/>
     <File name="cmsis_lib/include/misc.h" path="cmsis_lib/include/misc.h" type="1"/>
     <File name="sdcard/fatfs_spi_flash.h" path="fatfs/drivers/fatfs_spi_flash.h" type="1"/>
